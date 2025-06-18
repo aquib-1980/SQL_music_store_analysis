@@ -1,1 +1,2 @@
 # SQL_music_store_analysis
+This SQL project focuses on analyzing data from a music store to uncover insights that support business growth and customer engagement. By performing data queries on sales, customers, tracks, and genres, the goal is to identify high-performing products, customer trends, and revenue opportunities. The analysis helps the store make informed decisions to increase sales and expand its market presence.
